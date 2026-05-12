@@ -78,6 +78,8 @@ cd backend
 .\venv\Scripts\python.exe -m pytest
 ## ✒️ Autor
 
+## ✒️ Autor
+
 **Edson Carvalho** - *Desenvolvedor em Transição de Carreira | Estudante de ADS*
 - [LinkedIn](https://www.linkedin.com/in/edson-carvalho-213b051b1/)
 - [GitHub](https://github.com/Edson468)
