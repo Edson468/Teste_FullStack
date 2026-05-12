@@ -32,7 +32,7 @@ Este projeto é uma aplicação completa de gerenciamento de tarefas (To-Do List
 
 ## 🏗️ Estrutura do Projeto
 
-
+```text
 desafio_fullstack/
 ├── backend/            # API FastAPI, Banco de Dados e Testes
 │   ├── main.py
